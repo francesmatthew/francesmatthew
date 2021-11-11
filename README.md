@@ -1,5 +1,10 @@
 ### Hi there 👋
+I'm current a computer engineering student at the University of Maryland, Baltimore County
 
+I write code in Python, C++, x86 Assembly, and C. I work on computer hardware from AVR-based microcontrollers to ARM-based Raspberry Pi's
+
+Most of the code I write is under ownership of faculty at the university, but I am easy to reach by email
+  frances.matthew.c@gmail.com
 <!--
 **francesmatthew/francesmatthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
