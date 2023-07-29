@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm currently a computer engineering student at the University of Maryland, Baltimore County
 
-I write code in Python, C++, x86 Assembly, and C. I work on computer hardware, including AVR-based microcontrollers and ARM-based Raspberry Pi's
+I love writing code in C++ and C, but I'm also experienced in Python, MATLAB, C#, and x86 Assembly. Most of my experience is in programs running in linux environments or on microcontrollers, but I am also familiar working in Windows.
 
 Most of the code I write is under ownership of faculty at the university, but I am easy to reach by email
   frances.matthew.c@gmail.com
